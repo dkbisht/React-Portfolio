@@ -3,7 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../Assets/placementcell.jpg'
 import IMG2 from '../../Assets/hostel.jpg'
 import IMG3 from '../../Assets/emagazine.jpg'
-
+import IMG4 from '../../Assets/foodstar.jpg'
 const data=[
   {
     id: 1,
@@ -22,6 +22,12 @@ const data=[
     image: IMG3,
     title: 'Nitc E- Magazine Android Appliation using Android Studio (Java) for frontend and backend and Google Firebase  Database',
     github:'https://github.com/alokpandeygzp/NITC-eMagazine' ,
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'FoodStar a user-friendly food ordering website with the MERN stack, enabling users to explore, order, and enjoy  meals from local eateries.',
+    github:'https://github.com/dkbisht/Foodstar' ,
   },
 ]
 
